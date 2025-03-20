@@ -1,0 +1,6 @@
+In this lab, l learned the fundamentals of setting up a web development environment by installing essential tools like VS Code, Git, and Node.js, and verifying their functionality. 
+l created your first basic HTML file, index.html, and viewed it in a browser using Live Server.
+Additionally, you gained hands-on experience with version control by configuring Git, initializing a repository, and pushing your project to GitHub.
+l also explored collaboration workflows, such as creating branches, merging changes, and submitting pull requests.
+Finally, you enhanced your HTML file with additional content and experimented with VS Code extensions like Live Server and Prettier. 
+By completing this lab, you now have a solid foundation in web development tools, version control, and collaboration, preparing you for more advanced projects.
